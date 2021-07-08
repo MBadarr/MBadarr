@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Badar</h1>
 <h3 align="center">I am a Professional Web Developer and ReactJs Developer</h3>
 
-- 🔭 I’m currently working on **Different Projects**
+- 🔭 I’m currently working on **Something Cool**
 
 - 🌱 I’m currently learning **NextJS**
 
