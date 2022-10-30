@@ -19,3 +19,4 @@
 
 <h3 align="left">Dev Card</h3>
 <a href="https://app.daily.dev/mbadar"><img src="https://api.daily.dev/devcards/fdcdcccea94947e0ae1bd524926a17c3.png?r=vgi" width="100" alt="M.Badar's Dev Card"/></a>
+<a href="https://app.daily.dev/mbadar"><img src="https://api.daily.dev/devcards/fdcdcccea94947e0ae1bd524926a17c3.png?r=xrp" width="100" alt="M.Badar's Dev Card"/></a>
