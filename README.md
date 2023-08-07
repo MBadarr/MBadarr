@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as **React Js Developer**
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **NestJS**
 
 - 💬 Ask me about **React, JavaScript, Vue**
 
