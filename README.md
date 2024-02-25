@@ -1,4 +1,4 @@
-<a href="[https://www.w3schools.com/css/](https://miro.medium.com/v2/resize:fit:1400/1*GNFNf_V7rj_C2YUCeZNzsw.jpeg)" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" target='blank' />
 <h1 align="center">Hi 👋, I'm Muhammad Badar</h1>
 <h3 align="center">I am a Professional FullStack Developer</h3>
 
