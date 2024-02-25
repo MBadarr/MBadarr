@@ -1,4 +1,4 @@
-<img src="[[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg](https://miro.medium.com/v2/resize:fit:1400/1*GNFNf_V7rj_C2YUCeZNzsw.jpeg)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fupstackhq.medium.com%2Fwhat-is-a-full-stack-developer-723e4d4b8797&psig=AOvVaw086nEbaOflNkMEzs03qXIh&ust=1708965491777000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIDtltr2xoQDFQAAAAAdAAAAABA7)" target='blank' />
+<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg](https://media.licdn.com/dms/image/C5112AQEOiqKAJIaOOQ/article-cover_image-shrink_600_2000/0/1583406158263?e=2147483647&v=beta&t=tjiAj0EogVyKNUgsXw0Cu-__TW1RZocpy4lh8VwLM5o)" alt="css3" width="40" height="40"/>
 <h1 align="center">Hi 👋, I'm Muhammad Badar</h1>
 <h3 align="center">I am a Professional FullStack Developer</h3>
 
