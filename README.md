@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Badar</h1>
 <h3 align="center">I am a Professional FullStack Developer</h3>
 
-- 🔭 I’m currently working as **React Js Developer**
-
-- 🌱 I’m currently learning **NestJS**
+- 🔭 I’m currently working as **FullStack Developer**
 
 - 💬 Ask me about **React, JavaScript, Vue**
 
