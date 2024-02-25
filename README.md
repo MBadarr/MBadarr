@@ -1,4 +1,4 @@
-<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg](https://media.licdn.com/dms/image/C5112AQEOiqKAJIaOOQ/article-cover_image-shrink_600_2000/0/1583406158263?e=2147483647&v=beta&t=tjiAj0EogVyKNUgsXw0Cu-__TW1RZocpy4lh8VwLM5o)" alt="css" width="40" height="40"/>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </a>
 <h1 align="center">Hi 👋, I'm Muhammad Badar</h1>
 <h3 align="center">I am a Professional FullStack Developer</h3>
 
