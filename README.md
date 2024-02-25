@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as **FullStack Developer**
 
-- 💬 Ask me about **React, JavaScript, Vue**
+- 💬 Ask me about **React, JavaScript, Vue, Laravel**
 
 - 📫 How to reach me **mbadar418@gmail.com**
 
