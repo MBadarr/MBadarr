@@ -1,4 +1,4 @@
-</a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://media.istockphoto.com/id/1485939448/photo/data-processing-digital-technology-software-development-concept-computer-programmer-software.jpg?s=612x612&w=0&k=20&c=AMaqBgU79i_uPbJmGzoO9b_RoLwYpGwCaJsnTAsNPaY=" alt="banner"/> </a> </a> <a href="https://firebase.google.com/" target="_blank">
+</a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://miro.medium.com/v2/resize:fit:1400/1*GNFNf_V7rj_C2YUCeZNzsw.jpeg" alt="banner"/> </a> </a> <a href="https://firebase.google.com/" target="_blank">
 <h1 align="center">Hi 👋, I'm Muhammad Badar</h1>
 <h3 align="center">I am a Professional FullStack Developer</h3>
 
