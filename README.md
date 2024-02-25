@@ -1,4 +1,5 @@
-</a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://miro.medium.com/v2/resize:fit:1400/1*GNFNf_V7rj_C2YUCeZNzsw.jpeg" alt="banner"/> </a> </a> <a href="https://firebase.google.com/" target="_blank">
+</a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="![image](https://github.com/MBadarr/MBadarr/assets/44946634/0828016b-fffe-4077-85d4-597f738ae96a)
+" alt="banner" width="1600" /> </a> </a> <a href="https://firebase.google.com/" target="_blank">
 <h1 align="center">Hi 👋, I'm Muhammad Badar</h1>
 <h3 align="center">I am a Professional FullStack Developer</h3>
 
