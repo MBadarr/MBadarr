@@ -1,6 +1,6 @@
 </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cutshort.io/blog/wp-content/uploads/2018/04/bd1e5c2457278a37313c55ce8c887aa3.jpg" alt="banner" /> </a> </a>
 <h1 align="center">Hi 👋, I'm Muhammad Badar</h1>
-<h3 align="center">Professional FullStack Developer</h3>
+<h3 align="center">Professional Full Stack Developer</h3>
 
 - 🔭 I’m currently working as **FullStack Developer**
 
