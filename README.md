@@ -1,6 +1,9 @@
 </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cutshort.io/blog/wp-content/uploads/2018/04/bd1e5c2457278a37313c55ce8c887aa3.jpg" alt="banner" /> </a> </a>
 # 💫 About Me:
-### Hi there 👋<br><br>I'm Muhammad Badar, a Full Stack Web Developer with 3+ years of experience in building dynamic and responsive web applications. My expertise includes React, TypeScript, Node.js, and various modern frameworks. I am always keen to explore new technologies and best practices to deliver high-quality, scalable solutions<br><br>Let's collaborate and create something awesome! 🚀
+### Hi there 👋<br><br>Hi there 👋
+I'm Muhammad Badar, a Full Stack Web Developer with 3+ years of experience in building dynamic and responsive web applications. My expertise includes React, TypeScript, Node.js, and various modern frameworks. I am always keen to explore new technologies and best practices to deliver high-quality, scalable solutions <br><br>
+
+Let's collaborate and create something awesome! 🚀
 
 
 ## 🌐 Socials:
