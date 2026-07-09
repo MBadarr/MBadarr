@@ -1,8 +1,8 @@
 <div align="center">
   <h1>💫 Muhammad Badar</h1>
-  <p><strong>Senior Full-Stack SaaS Developer | Architecting Enterprise-Grade Multi-Tenant Products</strong></p>
+  <p><strong>Senior Full-Stack SaaS Developer | Building Scalable Multi-Tenant Platforms</strong></p>
 
-  <p><a href="https://linkedin.com/in/m-badar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><a href="mailto:mbadar418@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a></p>
+  <p><a href="https://linkedin.com/in/m-badar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="mailto:mbadar418@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a></p>
 </div>
 
 ---
