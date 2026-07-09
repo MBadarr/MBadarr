@@ -1,18 +1,8 @@
 <div align="center">
-  <!-- Dynamic Header Banner (Optional: Replace with an optimized image link or remove) -->
-  <!-- <img src="https://cutshort.io/blog/wp-content/uploads/2018/04/bd1e5c2457278a37313c55ce8c887aa3.jpg" alt="Muhammad Badar Banner" width="100%" style="border-radius: 8px;" /> -->
-
   <h1>💫 Muhammad Badar</h1>
   <p><strong>Senior Full-Stack SaaS Developer | Architecting Enterprise-Grade Multi-Tenant Products</strong></p>
 
-  <p>
-    <a href="https://linkedin.com/in/m-badar" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:mbadar418@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-  </p>
+  <p><a href="https://linkedin.com/in/m-badar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><a href="mailto:mbadar418@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a></p>
 </div>
 
 ---
