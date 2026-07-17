@@ -29,7 +29,7 @@ I focus on turning complex ideas into reliable, secure, and high-performing appl
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%">
       <h3>Frontend</h3>
       <ul>
         <li>TypeScript, JavaScript (ES6+)</li>
