@@ -29,9 +29,7 @@ I focus on turning complex ideas into reliable, secure, and high-performing appl
 
 <div style="width: 100%;">
 
-  <!-- Row 1 -->
   <div style="white-space: nowrap;">
-    
     <div style="display: inline-block; width: 49%; vertical-align: top; border: 1px solid #30363d; padding: 12px; margin-right: 1%;">
       <h3>Frontend</h3>
       <ul>
@@ -41,7 +39,6 @@ I focus on turning complex ideas into reliable, secure, and high-performing appl
         <li>React Native, Expo</li>
       </ul>
     </div>
-
     <div style="display: inline-block; width: 49%; vertical-align: top; border: 1px solid #30363d; padding: 12px;">
       <h3>Backend</h3>
       <ul>
@@ -51,11 +48,9 @@ I focus on turning complex ideas into reliable, secure, and high-performing appl
         <li>PostgreSQL, MongoDB, Firebase</li>
       </ul>
     </div>
-
   </div>
 
   <div style="white-space: nowrap; margin-top: 10px;">
-    
     <div style="display: inline-block; width: 49%; vertical-align: top; border: 1px solid #30363d; padding: 12px; margin-right: 1%;">
       <h3>DevOps & Cloud</h3>
       <ul>
@@ -66,7 +61,6 @@ I focus on turning complex ideas into reliable, secure, and high-performing appl
         <li>Git, GitHub, Bitbucket</li>
       </ul>
     </div>
-
     <div style="display: inline-block; width: 49%; vertical-align: top; border: 1px solid #30363d; padding: 12px;">
       <h3>Systems & Tools</h3>
       <ul>
@@ -75,7 +69,6 @@ I focus on turning complex ideas into reliable, secure, and high-performing appl
         <li>CI/CD pipelines, scalable architecture</li>
       </ul>
     </div>
-
   </div>
 
 </div>
