@@ -27,7 +27,7 @@ I focus on turning complex ideas into reliable, secure, and high-performing appl
 
 ## Skills & Technologies
 
-<table width="100%">
+<table width="100%" margin-top="0">
   <tr>
     <td width="50%">
       <h3>Frontend</h3>
