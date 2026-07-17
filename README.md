@@ -1,81 +1,61 @@
-<div align="center">
-  <h1>💫 Muhammad Badar</h1>
-  <p><strong>Senior Full-Stack SaaS Developer | Building Scalable Multi-Tenant Platforms</strong></p>
+# Muhammad Badar
 
-  <p><a href="https://linkedin.com/in/m-badar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="mailto:mbadar418@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a></p>
-</div>
+**Senior Full-Stack SaaS Developer | Building Scalable Multi-Tenant Platforms**
 
----
-
-## 🚀 About Me
-
-I am a Senior Full-Stack Engineer with over 5 years of professional experience engineered around architecting, developing, and deploying high-performance Software-as-a-Service (SaaS) platforms. 
-
-I bridge the gap between complex business logic and robust engineering solutions, specializing in building secure multi-tenant architectures, highly responsive frontends, and highly available cloud deployments.
-
-* 💡 **What I do:** Multi-tenant architecture, secure data isolation, custom payment funnels, real-time synchronization, and automated deployment pipelines.
-* ⚡ **Core Philosophy:** Designing production-ready, type-safe code systems that excel under high user traffic while maintaining exceptional developer ergonomics.
-* 🤝 **Collaboration:** Open to strategic SaaS minimum viable products (MVPs), enterprise scaling initiatives, and modernizing legacy code architectures.
+[LinkedIn](https://linkedin.com/in/m-badar) • [mbadar418@gmail.com](mailto:mbadar418@gmail.com)
 
 ---
 
-## 🛠️ Technical Ecosystem
+## About Me
 
-My production toolkit is organized by architectural layers to ensure performance, maintainability, and rapid scalability:
+Senior Full-Stack Engineer with 5+ years of experience designing, developing, and deploying high-performance SaaS platforms.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎨 Frontend & Client-Side</h3>
-      <ul>
-        <li><strong>Languages:</strong> TypeScript, JavaScript (ES6+)</li>
-        <li><strong>Frameworks:</strong> React, Next.js, Nuxt.js</li>
-        <li><strong>UI & Styling:</strong> TailwindCSS, shadcn/ui, Component Libraries</li>
-        <li><strong>Mobile Ecosystems:</strong> React Native, Expo</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚙️ Backend & Architecture</h3>
-      <ul>
-        <li><strong>Runtimes/Frameworks:</strong> Node.js, NestJS, Express.js</li>
-        <li><strong>Real-time/APIs:</strong> Socket.io, RESTful APIs, Webhooks</li>
-        <li><strong>ORMs/ODMs:</strong> Prisma, Mongoose</li>
-        <li><strong>Databases:</strong> PostgreSQL, MongoDB, Firebase</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚀 Cloud, DevOps & Infrastructure</h3>
-      <ul>
-        <li><strong>Cloud Compute:</strong> AWS EC2</li>
-        <li><strong>CDN & Security:</strong> Cloudflare</li>
-        <li><strong>Containerization:</strong> Docker, Docker Compose</li>
-        <li><strong>Orchestration:</strong> Kubernetes</li>
-        <li><strong>Version Control:</strong> Git, GitHub, Bitbucket</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💼 Management & Core Systems</h3>
-      <ul>
-        <li><strong>SaaS Modules:</strong> Multi-tenancy, RBAC, Usage-Billing</li>
-        <li><strong>Agile Tracking:</strong> Jira, Trello</li>
-        <li><strong>Best Practices:</strong> CI/CD Pipelines, DRY Principles</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+I specialize in translating complex business requirements into scalable, secure, and production-ready systems. My focus is on multi-tenant architectures, responsive frontend experiences, and reliable cloud infrastructure.
+
+* **Core Expertise:** Multi-tenant systems, secure data isolation, payment integrations, real-time systems, and CI/CD pipelines
+* **Engineering Approach:** Clean, type-safe, and scalable code built for performance under high traffic
+* **Collaboration:** Open to SaaS MVPs, scaling products, and modernizing legacy systems
 
 ---
 
-## 📈 Featured Core Specialties
+## Technical Ecosystem
 
-* 🏗️ **SaaS Architecture:** Designing multi-tenant database patterns, implementing complex Role-Based Access Control (RBAC), and optimizing application caching layers.
-* 💳 **Payment Integrations:** Implementing subscription life-cycles, webhooks, usage-based billing, and secure checkout funnels.
-* 📊 **Performance Engineering:** Optimizing database queries, managing component re-renders, and implementing state-management strategies for data-dense analytical dashboards.
+### Frontend & Client-Side
+
+* **Languages:** TypeScript, JavaScript (ES6+)
+* **Frameworks:** React, Next.js, Nuxt.js
+* **UI & Styling:** Tailwind CSS, shadcn/ui, component libraries
+* **Mobile:** React Native, Expo
+
+### Backend & Architecture
+
+* **Frameworks:** Node.js, NestJS, Express.js
+* **APIs & Real-time:** REST APIs, WebSockets, Socket.io, Webhooks
+* **ORM/ODM:** Prisma, Mongoose
+* **Databases:** PostgreSQL, MongoDB, Firebase
+
+### Cloud, DevOps & Infrastructure
+
+* **Cloud:** AWS EC2
+* **Security & CDN:** Cloudflare
+* **Containerization:** Docker, Docker Compose
+* **Orchestration:** Kubernetes
+* **Version Control:** Git, GitHub, Bitbucket
+
+### Management & Core Systems
+
+* **SaaS Systems:** Multi-tenancy, RBAC, usage-based billing
+* **Project Management:** Jira, Trello
+* **Best Practices:** CI/CD pipelines, scalable architecture, DRY principles
 
 ---
 
-<div align="center">
-  <p>Let's build the next generation of software together. 🚀</p>
-</div>
+## Core Specialties
+
+* **SaaS Architecture:** Multi-tenant design, RBAC implementation, scalable database structures
+* **Payment Systems:** Subscription management, billing workflows, secure payment integrations
+* **Performance Optimization:** Query optimization, efficient state management, frontend performance tuning
+
+---
+
+Building scalable, reliable, and production-ready software.
