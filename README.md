@@ -2,11 +2,11 @@
 **Senior Full-Stack SaaS Developer | Building Scalable Multi-Tenant Platforms**
 
 <p>
-  <a href="https://linkedin.com/in/m-badar" target="_blank">
+  <a href="https://linkedin.com/in/m-badar" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:mbadar418@gmail.com" target="_blank">
+  &nbsp;&nbsp;
+  <a href="mailto:mbadar418@gmail.com" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
