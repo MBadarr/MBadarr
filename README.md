@@ -29,44 +29,53 @@ I focus on turning complex ideas into reliable, secure, and high-performing appl
 
 <div style="width: 100%;">
 
-  <div style="display: inline-block; width: 48%; vertical-align: top; border: 1px solid #30363d; padding: 12px; margin-bottom: 10px;">
-    <h3>Frontend</h3>
-    <ul>
-      <li>TypeScript, JavaScript (ES6+)</li>
-      <li>React, Next.js, Nuxt.js</li>
-      <li>Tailwind CSS, shadcn/ui</li>
-      <li>React Native, Expo</li>
-    </ul>
+  <!-- Row 1 -->
+  <div style="white-space: nowrap;">
+    
+    <div style="display: inline-block; width: 49%; vertical-align: top; border: 1px solid #30363d; padding: 12px; margin-right: 1%;">
+      <h3>Frontend</h3>
+      <ul>
+        <li>TypeScript, JavaScript (ES6+)</li>
+        <li>React, Next.js, Nuxt.js</li>
+        <li>Tailwind CSS, shadcn/ui</li>
+        <li>React Native, Expo</li>
+      </ul>
+    </div>
+
+    <div style="display: inline-block; width: 49%; vertical-align: top; border: 1px solid #30363d; padding: 12px;">
+      <h3>Backend</h3>
+      <ul>
+        <li>Node.js, NestJS, Express.js</li>
+        <li>REST APIs, WebSockets, Socket.io, Webhooks</li>
+        <li>Prisma, Mongoose</li>
+        <li>PostgreSQL, MongoDB, Firebase</li>
+      </ul>
+    </div>
+
   </div>
 
-  <div style="display: inline-block; width: 48%; vertical-align: top; border: 1px solid #30363d; padding: 12px; margin-bottom: 10px;">
-    <h3>Backend</h3>
-    <ul>
-      <li>Node.js, NestJS, Express.js</li>
-      <li>REST APIs, WebSockets, Socket.io, Webhooks</li>
-      <li>Prisma, Mongoose</li>
-      <li>PostgreSQL, MongoDB, Firebase</li>
-    </ul>
-  </div>
+  <div style="white-space: nowrap; margin-top: 10px;">
+    
+    <div style="display: inline-block; width: 49%; vertical-align: top; border: 1px solid #30363d; padding: 12px; margin-right: 1%;">
+      <h3>DevOps & Cloud</h3>
+      <ul>
+        <li>AWS EC2</li>
+        <li>Cloudflare</li>
+        <li>Docker, Docker Compose</li>
+        <li>Kubernetes</li>
+        <li>Git, GitHub, Bitbucket</li>
+      </ul>
+    </div>
 
-  <div style="display: inline-block; width: 48%; vertical-align: top; border: 1px solid #30363d; padding: 12px;">
-    <h3>DevOps & Cloud</h3>
-    <ul>
-      <li>AWS EC2</li>
-      <li>Cloudflare</li>
-      <li>Docker, Docker Compose</li>
-      <li>Kubernetes</li>
-      <li>Git, GitHub, Bitbucket</li>
-    </ul>
-  </div>
+    <div style="display: inline-block; width: 49%; vertical-align: top; border: 1px solid #30363d; padding: 12px;">
+      <h3>Systems & Tools</h3>
+      <ul>
+        <li>Multi-tenancy, RBAC, usage-based billing</li>
+        <li>Jira, Trello</li>
+        <li>CI/CD pipelines, scalable architecture</li>
+      </ul>
+    </div>
 
-  <div style="display: inline-block; width: 48%; vertical-align: top; border: 1px solid #30363d; padding: 12px;">
-    <h3>Systems & Tools</h3>
-    <ul>
-      <li>Multi-tenancy, RBAC, usage-based billing</li>
-      <li>Jira, Trello</li>
-      <li>CI/CD pipelines, scalable architecture</li>
-    </ul>
   </div>
 
 </div>
