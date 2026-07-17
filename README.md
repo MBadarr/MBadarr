@@ -29,7 +29,7 @@ I focus on turning complex ideas into reliable, secure, and high-performing appl
 
 <div style="width: 100%;">
 
-  <div style="display: inline-block; width: 48%; vertical-align: top;">
+  <div style="display: inline-block; width: 48%; vertical-align: top; border: 1px solid #30363d; padding: 12px; margin-bottom: 10px;">
     <h3>Frontend</h3>
     <ul>
       <li>TypeScript, JavaScript (ES6+)</li>
@@ -39,7 +39,7 @@ I focus on turning complex ideas into reliable, secure, and high-performing appl
     </ul>
   </div>
 
-  <div style="display: inline-block; width: 48%; vertical-align: top;">
+  <div style="display: inline-block; width: 48%; vertical-align: top; border: 1px solid #30363d; padding: 12px; margin-bottom: 10px;">
     <h3>Backend</h3>
     <ul>
       <li>Node.js, NestJS, Express.js</li>
@@ -49,7 +49,7 @@ I focus on turning complex ideas into reliable, secure, and high-performing appl
     </ul>
   </div>
 
-  <div style="display: inline-block; width: 48%; vertical-align: top;">
+  <div style="display: inline-block; width: 48%; vertical-align: top; border: 1px solid #30363d; padding: 12px;">
     <h3>DevOps & Cloud</h3>
     <ul>
       <li>AWS EC2</li>
@@ -60,7 +60,7 @@ I focus on turning complex ideas into reliable, secure, and high-performing appl
     </ul>
   </div>
 
-  <div style="display: inline-block; width: 48%; vertical-align: top;">
+  <div style="display: inline-block; width: 48%; vertical-align: top; border: 1px solid #30363d; padding: 12px;">
     <h3>Systems & Tools</h3>
     <ul>
       <li>Multi-tenancy, RBAC, usage-based billing</li>
