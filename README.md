@@ -1,5 +1,5 @@
 # Muhammad Badar  
-**Senior Full-Stack SaaS Developer | Building Scalable Multi-Tenant Platforms**
+**Senior Full-Stack SaaS Developer | Building Scalable Multi-Tenant SaaS Platforms**
 
 <p>
   <a href="https://linkedin.com/in/m-badar" target="_blank" style="text-decoration: none;">
