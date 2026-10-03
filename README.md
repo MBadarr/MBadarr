@@ -53,15 +53,6 @@ With 5+ years of full-stack experience, I handle the entire product lifecycle, f
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mbadar418&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Muhammad's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbadar418&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
----
-
 <div align="center">
   <i>"Building reliable systems that scale in production without unnecessary complexity."</i>
 </div>
