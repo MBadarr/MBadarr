@@ -21,7 +21,7 @@
 
 I build and ship high-performance SaaS platforms, AI-powered applications, MVPs, and production-ready web systems for startups and businesses. 
 
-With 5+ years of full-stack experience, I handle the entire product lifecycle—from system architecture and database design to development, complex integrations, cloud deployment, and performance optimization. Whether building a product entirely from scratch or taking ownership of an existing codebase, I focus on clean architecture, type safety, and practical engineering decisions.
+With 5+ years of full-stack experience, I handle the entire product lifecycle, from system architecture and database design to development, complex integrations, cloud deployment, and performance optimization. Whether building a product entirely from scratch or taking ownership of an existing codebase, I focus on clean architecture, type safety, and practical engineering decisions.
 
 * **Core Focus:** Multi-tenant SaaS, enterprise RBAC, AI Agents, RAG pipelines, Stripe billing ecosystems, and robust backend systems.
 * **Current Status:** Available for select high-impact SaaS development, AI applications, MVPs, and architectural scaling.
